@@ -1,0 +1,1 @@
+[![exercise1](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise1.yml/badge.svg)](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise1.yml)
