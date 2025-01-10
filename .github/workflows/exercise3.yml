@@ -1,0 +1,11 @@
+name: exercise3
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  exercise3:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello, GitHub Actions."
