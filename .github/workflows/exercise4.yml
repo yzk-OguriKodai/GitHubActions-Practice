@@ -1,0 +1,9 @@
+name: exercise3
+on:
+  schedule:
+    - cron: "0,15,30,45 * * * *"
+jobs:
+  exercise3:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello, GitHub Actions."
