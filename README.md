@@ -1,1 +1,4 @@
 [![exercise1](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise1.yml/badge.svg)](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise1.yml)
+[![exercise2](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise2.yml/badge.svg)](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise2.yml)
+[![exercise3](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise3.yml/badge.svg)](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise3.yml)
+[![exercise4](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise4.yml/badge.svg)](https://github.com/yzk-OguriKodai/GitHubActions-Practice/actions/workflows/exercise4.yml)
