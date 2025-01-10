@@ -1,4 +1,4 @@
-name: exercise3
+name: exercise4
 on:
   schedule:
     - cron: "0,15,30,45 * * * *"
